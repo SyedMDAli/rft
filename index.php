@@ -1,0 +1,385 @@
+<!doctype html>
+
+<html>
+
+<!-- Mirrored from www.riskfreetrade.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Nov 2014 12:13:10 GMT -->
+<head>
+<meta charset="utf-8">
+<meta name="google-site-verification" content="KEfqT-8CKVjP75deYIJjqFHqw1EPxDG7mt9CfeO9qHo" />
+<link rel="canonical" href="index.html" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Best Stock Tips, Stock Recommendations, Share Market Tips, Stock Tips</title>
+<meta name="description" content="We provide top class stock trading recommendations. Get Stock Market Tips live through SMS and Calls, based on our far-reaching research & unbiased analysis"/>
+<meta name="keywords" content="Stock Tips, Free Stock Tips, Accurate Stock Tips, Sure Shot Stock Tips, Hot Stock Tips, Amazing Stock Tips, Awesome Stock Tips, Best Stock Market Tips, Top Stock Tips, Stock Market Recommendations, Best Share Market Tips, Stock Tips Free, Indian Stock Tips, Stock Tips SMS, Stock Tips Calls, Stock Tips Free Trial, Stocks Tips, Indian Stocks Tips, Stock Tips for Today, Stock Tips for Tomorrow" />
+<meta property="og:title" content="Best Stock Tips, Stock Recommendations, Share Market Tips, Stock Tips" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="stocktips.html" />
+<meta property="og:description" content="We provide top class stock market trading recommendations. Get Stock Tips live through SMS and Calls, based on our far-reaching research & unbiased analysis" />
+<meta property="og:site_name" content="Riskfreetrade" />
+
+
+<!-- SEO and Website Done By SALIM CHISTY -->
+<meta name="alexaVerifyID" content="JkP_uKQQvaeeGxmkX6pCizSeRUg" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.rotate.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/validation.js"></script>
+<SCRIPT TYPE="text/javascript">
+<!--
+//Disable right click script
+//visit http://www.rainbow.arch.scriptmania.com/scripts/
+var message="Sorry, right-click has been disabled";
+///////////////////////////////////
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+// -->
+</SCRIPT>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "../connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</head>
+
+<body id="home" viewsource="no">
+<div id="topheader"></div>
+<!----------HEADER----------- -->
+<div id="header">
+  <div class="headertop">
+	<div class="news">Give Miss Call @ 08431008318</div>
+    	<div class="logo"><img src="images/rft.png" width="150" height="68"></div>
+        <div class="nav">
+        	<ul>
+            	<li class="home"><a href="index.php">Home</a></li>
+                <li class="aboutus"><a href="about.html">About Us</a></li>
+                <li class="services"><a href="services.html">Services</a></li>
+                <li class="pricing"><a href="pricing.html">Pricing</a></li>
+                <li class="bankdetails"><a href="bank.html">Bank Details</a></li>
+                <li class="contact"><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </div>
+        <div class="social">
+        	<ul>
+            	<li><a href="https://www.facebook.com/riskfreetrade" target="_blank"><img src="images/fb.png" id="image1"></a></li>
+                <li><a href="http://twitter.com/#!/RiskFreeTradein" target="_blank"><img src="images/tw.png" id="image2"></a></li>
+                <li><a href="http://www.linkedin.com/groups/RiskFreeTradeServices-4654986" target="_blank"><img src="images/in.png" id="image3"></a></li>
+                <li><a href="https://plus.google.com/b/110885521397783239351/110885521397783239351"><img src="images/google.png" id="image4"></a></li>
+                 <li><a href="mailto:info@riskfreetrade.in" target="_blank"><img src="images/email.png" id="image5"></a></li>
+            </ul>
+        </div>
+        <div class="clicktocall"><form id="clicktocall" name="clicktocall" method="post" action="#" onsubmit="return checkclicktocall();">
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td  align="left" valign="middle" class="clickto">ClickToCall :+91 </td>
+                  <td align="left" valign="middle"><input name="mno" type="text" class="formtext" id="mno" onKeyPress="return LettersWithDigitOnly(event)" />
+				  </td>
+                  <td align="right" valign="middle"><input name="SUBMITC" type="submit" class="go" value="Go" /></td>
+                </tr>
+              </table>
+                        </form> </div>
+  </div></div>
+<div class="divider"></div>
+<!-------------end hEADER--------- -->
+<div id="banner">
+	<div class="bancontent">
+    	<div class="left">
+        	<div class="freetrialform">
+            	<div class="hd"></div>
+                <div class="ct">
+                  <form name="freetrialform" method="post" action="include/class_createwealth.php" onsubmit="return checkfreetrial();">
+                    <table width="100%" cellspacing="4" cellpadding="0">
+                      <tr>
+                        <td align="left" valign="middle">Name :*</td>
+                        <td align="left" valign="middle">Mobile No:*</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="middle">
+						<input type="hidden" value="incert_user" name="feature">
+						<input name="userName" type="text" class="tf" id="name" placeholder="Name" onKeyPress="return LettersWithSpaceOnly(event)"></td>
+                        <td align="left" valign="middle"><span><input name="mobileNo" type="text" disabled="disabled" value="+91" readonly="readonly" class="tfn" /><input name="mobileNo" type="text" class="tfm" id="mno" placeholder="10 Digit Mobile No" onKeyPress="return LettersWithDigitOnly(event)"></span></td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="middle">Email Id:</td>
+                        <td align="left" valign="middle">City :*</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="middle"><input name="email" type="text" class="tf" id="email" placeholder="Email"></td>
+                        <td align="left" valign="middle"><input name="city" type="text" class="tf" id="city" placeholder="City" onKeyPress="return LettersWithSpaceOnly(event)"></td>
+                      </tr>
+                      <tr>
+                        <td colspan="2" align="left" valign="middle"><table width="100%" cellpadding="3" cellspacing="3" class="onlyborder">
+                         <tr>
+                            <td align="left" valign="middle"><input name="product[]" type="checkbox" id="product[]" value="Equity"></td>
+                            <td align="left" valign="middle">Equity</td>
+                            <td align="left" valign="middle"><input name="product[]" type="checkbox" id="product[]" value="Future"></td>
+                            <td align="left" valign="middle">Future</td>
+                            <td align="left" valign="middle"><input name="product[]" type="checkbox" id="product[]" value="Options"></td>
+                            <td align="left" valign="middle">Options</td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="middle"><input name="product[]" type="checkbox" id="product[]" value="Nifty Options"></td>
+                            <td align="left" valign="middle">Nifty Options</td>
+                            <td align="left" valign="middle"><input name="product[]" type="checkbox" id="product[]" value="Nifty Future"></td>
+                            <td align="left" valign="middle">Nifty Future</td>
+                            <td align="left" valign="middle"><input name="product[]" type="checkbox" id="product[]" value="Commodity"></td>
+                            <td align="left" valign="middle">Commodity</td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="middle"><input name="product[]" type="checkbox" id="product[]" value="Bullions"></td>
+                            <td align="left" valign="middle">Bullions</td>
+                            <td align="left" valign="middle"><input type="checkbox" name="terms" id="terms"></td>
+                            <td colspan="3" align="left" valign="middle"><a href="terms.html#terms">Personalised Service</a></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                     
+                      <tr>
+                        <td colspan="2" align="center" valign="middle"><input name="SUBMIT" type="submit" class="orange" id="SUBMIT" value="Submit"></td>
+                      </tr>
+                    </table>
+                  </form>                </div>
+                <div class="fd"></div>
+            </div>
+        </div>
+        <div class="right"><script type="text/javascript">
+ 	var fadeDuration=2000;
+	var slideDuration=4000;
+	var currentIndex=1;
+	var nextIndex=1;
+	$(document).ready(function()
+	{
+		
+		$('ul.slideshow li').css({opacity: 0.0});
+		$("'ul.slideshow li:nth-child("+nextIndex+")'").addClass('show').animate({opacity: 1.0}, fadeDuration);
+		var timer = setInterval('nextSlide()',slideDuration);
+	})
+	function nextSlide(){
+			nextIndex =currentIndex+1;
+			if(nextIndex > $('ul.slideshow li').length)
+			{
+				nextIndex =1;
+			}
+			$("'ul.slideshow li:nth-child("+nextIndex+")'").addClass('show').animate({opacity: 1.0}, fadeDuration);
+			$("'ul.slideshow li:nth-child("+currentIndex+")'").animate({opacity: 0.0}, fadeDuration).removeClass('show');
+			currentIndex = nextIndex;
+	}
+ </script>
+ <style type="text/css">
+	
+	.slideshow{
+		width:639px;
+		list-style: none;
+		position:relative;
+		background:#FFF;
+		margin-top:0px;	
+		z-index:-1000px;
+	}
+	
+ 	ul.slideshow li {
+		position:absolute;
+		left:0px;
+		top:0px;
+		display:inline;
+	}
+	ul.slideshow li.show {
+		
+	}
+ </style>
+ 
+    <ul class="slideshow">
+   
+        <li> <img  src="images/banner1.jpg" width="639" height="288" /> </li>
+          <li> <img  src="images/banner2.jpg" width="639" height="288" /> </li>
+            <li> <img  src="images/banner3.jpg" width="639" height="288" /> </li>
+              <li> <img  src="images/banner4.jpg" width="639" height="288" /> </li>
+    </ul>
+<div id="news">
+                <div class="newsl">Latest Updates : </div>
+                <div class="newsr"><marquee dir="ltr" scrollamount="2">Year Ending Offer Is Going On Call @ 08431008318</marquee></div>
+                </div>    
+ 
+
+
+</div>
+    </div>
+</div>
+<div class="divider"></div>
+<div class="clear"></div>
+<div id="content">
+	
+	<div class="left">
+    	<div class="hd"><div class="picon"><img src="images/services.png" width="35" height="35"></div><div class="pcontent">Our Services</div></div>
+        <div class="cont">
+        	<ul>
+            	<li>
+                		<div class="pr"> <img src="images/equity.png" width="50" height="50"></div>
+                        <div class="full">
+                            <div class="title">Equity Tips</div>
+                            <div class="desc">This service includes a combination of Intraday and Delivery Based products.</div>
+                            <div align="right" class="readmore"><a href="services.html#Equity">Read More</a></div>
+                       </div>
+                 </li>
+                <li>
+                	<div class="pr"> <img src="images/nifty.png" width="50" height="50"></div>
+                        <div class="full">
+                            <div class="title">Nifty Tips</div>
+                            <div class="desc">This product is peculiarly designed based on customer feedback...</div>
+                            <div align="right" class="readmore"><a href="services.html#Nifty">Read More</a></div>
+                       </div>
+              </li>
+                <li>
+                	<div class="pr"> <img src="images/commodity.png" width="50" height="50"></div>
+                        <div class="full">
+                            <div class="title">Commodity Tips</div>
+                            <div class="desc">We at RiskFreeTrade endeavor constantly to take you the next level of Market Investing. </div>
+                            <div align="right" class="readmore"><a href="services.html#Commodity">Read More</a></div>
+                       </div>
+              </li>
+                <li>
+                	<div class="pr"> <img src="images/agri.png" width="50" height="50"></div>
+                        <div class="full">
+                            <div class="title">Derivatives Tips</div>
+                            <div class="desc">Derivatives Tips include intraday and position call at daily market time.</div>
+                            <div align="right" class="readmore"><a href="services.html#Agri">Read More</a></div>
+                       </div>
+              </li>
+            </ul>
+        </div>
+                <div class="fd"></div>
+    </div>
+  <div class="middle">
+    	<div class="hd">
+        	<div class="pimage"><img src="images/welcome_icon.png" width="52" height="24"></div>
+            <div class="ptitle">Welcome To Risk Free Trade Services</div>
+    </div> 
+         <div class="pcontent">Risk Free Trade Services is a Trading And an Investment Advisory Company which offers fail-safe Stock Market Recommendations for your valued Investments in the Share Market. We provide the Best Stock Tips. Preserving an appropriate blend of growth as well as safety in mind, our team of professionals render you opportune Stock Tips live through SMS and Calls. The StockTips that we offer is based on our far-reaching research & unbiased technical analysis</div>
+          <div align="right" class="readmore"><a href="about.html">Read More</a></div>
+          
+    <div class="hd">
+        	<div class="pimage"><img src="images/testimonals.png" width="52" height="24"></div>
+            <div class="ptitle">Testimonials</div>
+         </div> 
+         <div class="pcontent"><ul>
+         <li>“Thank You for providing a consistent return once again. although I felt ups and downs, the overall quarterly performance was huge. Looking forward to such awesome calls over and over again".
+<b>-Mr.Nishant, Mumbai</b></li>
+         <li>"I paid just for the Tips , but getting Newsletters and regular market updates keep me completely informed about the financial market."
+<b>-Mr. Francis, Kochi</b> .</li>
+         </ul></div>
+       </div>
+    
+      <div class="right">
+            <div class="cont"><div class="hd"><div class="picon"><img src="images/download.png" width="35" height="35"></div><div class="pcontent">Our Tracksheets</div></div>
+<table width="100%" cellspacing="3" cellpadding="2">
+  <tr>
+    <td align="center" valign="middle"><a href="upload/DG%20Equity%2021-11-2014.xls" target="_blank"><img src="images/Track_sheet.png" width="30" height="30" /></a></td>
+    <td align="left" valign="middle"> <span class="tr"><a href="upload/DG%20Equity%2021-11-2014.xls" target="_blank">Equity</a></span>
+  </td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle">  <a href="upload/DG%20Stkoption%2021-11-2014.xls" target="_blank"><img src="images/Track_sheet.png" width="30" height="30" /></a></td>
+      <td align="left" valign="middle"><span class="tr"><a href="upload/DG%20Stkoption%2021-11-2014.xls" target="_blank">Stk Options</a></span></td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle"><a href="upload/DG%20Commodity%2021-11-2014.xls" target="_blank"><img src="images/Track_sheet.png" width="30" height="30" /></a></td>
+    <td align="left" valign="middle"><span class="tr"><a href="upload/DG%20Commodity%2021-11-2014.xls" target="_blank">Commodity</a></span></td>
+   
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="upload/Day%20Gains%20Agri%20Commodity%20%2021-11-2014.xls" target="_blank"><img src="images/Track_sheet.png" width="30" height="30" /></a></td>
+    <td align="left" valign="middle"><span class="tr"><a href="upload/Day%20Gains%20Agri%20Commodity%20%2021-11-2014.xls" target="_blank">Derivatives</a></span></td>
+   
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><a href="upload/DG%20Options%20%2021-11-2014.xls" target="_blank"><img src="images/Track_sheet.png" width="30" height="30" /></a></td>
+   <td align="left" valign="middle"><span class="tr"><a href="upload/DG%20Options%20%2021-11-2014.xls" target="_blank">Options</a></span></td>
+  
+  </tr>
+</table>
+</div>
+       <div class="clear"></div>
+         
+            <div class="cont"><div class="hd"><div class="picon"><img src="images/bank.png" width="35" height="35"></div><div class="pcontent">Our Bank Details</div></div>
+<table width="100%" cellspacing="3" cellpadding="2">
+  <tr>
+    <td align="center" valign="middle"><a href="bank.html"><img src="images/icici.png" width="50" height="50" id="image6"  /></a></td>
+    <td align="center" valign="middle"><a href="bank.html"><img src="images/axis.png" width="50" height="50" id="image7"  /></a></td>
+    <td align="center" valign="middle"><a href="bank.html"><img src="images/hdfc.png" width="50" height="50" id="image8"  /></a></td>
+    <td align="center" valign="middle"><a href="bank.html"><img src="images/sbi.png" width="50" height="50" id="image9"  /></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><span class="tr"><a href="bank.html">ICICI</a></span></td>
+    <td align="center" valign="middle"><span class="tr"><a href="bank.html">AXIS</a></span></td>
+    <td align="center" valign="middle"><span class="tr"><a href="bank.html">HDFC</a></span></td>
+    <td align="center" valign="middle"><span class="tr"><a href="bank.html">SBI</a></span></td>
+  </tr>
+</table>
+</div>
+        <div class="clear"></div>
+            <div class="fd"></div>
+        </div>
+</div>
+<div class="clear"></div>
+<div id="footer"><div class="footercontent">
+  <table width="100%" cellspacing="2" cellpadding="2">
+    <tr>
+<!-- <td align="center" valign="middle"><a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/9hah3e/download/index.htm" target="_blank"><img src="images/toolbar.jpg" width="164" height="84" /></a></td>-->
+      <td align="center" valign="middle"><table width="100%" cellspacing="2" cellpadding="3">
+        <tr>
+         
+          <td align="center" valign="middle"><a href="terms.html#terms">Term &amp; conditions</a></td>
+          <td align="center" valign="middle">|</td>
+          <td align="center" valign="middle"><a href="terms.html#faq">FAQ</a></td>
+          <td align="center" valign="middle">|</td>
+          <td align="center" valign="middle"><a href="terms.html#privacy">Privacy Policy</a></td>
+          <td align="center" valign="middle">|</td>
+  <!--    <td align="center" valign="middle"><a href="terms.html#refund">Refund Policy</a></td>
+          <td align="center" valign="middle">|</td>-->
+          <td align="center" valign="middle"><a href="cacustom.html">Custom</a></td>
+         
+          </tr>
+        <tr>
+          <td colspan="13" align="center" valign="middle">All Right Reserved @ RiskFreeTrade Services</td>
+          </tr>
+      </table></td>
+ <!-- <td align="center" valign="middle"><img src="images/iso.jpg" width="137" height="83" /></td> -->
+    </tr>
+  </table>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35940795-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div>
+</body>
+
+<!-- Mirrored from www.riskfreetrade.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Nov 2014 12:16:31 GMT -->
+</html>
+
+<?php
+if ($_REQUEST['user'] == 2){
+	echo"<script>alert('You have Successfully Registered')</script>";
+    echo "<script>window.location='index.php'</script>";
+}
+?>
