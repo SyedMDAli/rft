@@ -57,8 +57,8 @@ document.oncontextmenu=new Function("return false")
 <!----------HEADER------------->
 <div id="header">
   <div class="headertop">
-	<div class="news">Give Miss Call @ 08431008318</div>
-    	<div class="logo"><img src="images/rft.png" width="150" height="68"></div>
+	<div class="news">Give Miss Call @ 8884151982</div>
+    	<div class="logo"><img src="images/stocktrade.png" width="150" height="68"></div>
         <div class="nav">
         	<ul>
             	<li class="home"><a href="index.php">Home</a></li>
@@ -75,7 +75,7 @@ document.oncontextmenu=new Function("return false")
                 <li><a href="http://twitter.com/#!/riskfreetradein" target="_blank"><img src="images/tw.png" id="image2"></a></li>
                 <li><a href="http://www.linkedin.com/groups/riskfreetradeServices-4654986" target="_blank"><img src="images/in.png" id="image3"></a></li>
                 <li><a href="https://plus.google.com/b/110885521397783239351/110885521397783239351"><img src="images/google.png" id="image4"></a></li>
-                 <li><a href="mailto:info@riskfreetrade.com" target="_blank"><img src="images/email.png" id="image5"></a></li>
+                 <li><a href="mailto:info@stocktrade.com" target="_blank"><img src="images/email.png" id="image5"></a></li>
             </ul>
         </div>
         <div class="clicktocall"><form id="clicktocall" name="clicktocall" method="post" action="#" onsubmit="return checkclicktocall();">
@@ -98,7 +98,7 @@ document.oncontextmenu=new Function("return false")
         <div class="bankbg">
         <div class="topa"><span><img src="images/sbi.png" width="40" height="40"></span><div class="tt">SBI BANK DETAILS</div></div>
         <div class="topb">
-        <span>A/c Name :</span> RISK FREE TRADE SERVICES<br>
+        <span>A/c Name :</span> STOCK TRADE SERVICES<br>
                             <span>A/c No   :</span> 33980829719<br>
                             <span>IFSC Code: </span>SBIN0014951<br>
                             <span>Branch   :</span> JP NAGAR ,Bangalore
@@ -124,7 +124,7 @@ document.oncontextmenu=new Function("return false")
          <div class="topa"><span><img src="images/icici.png" width="40" height="40"></span>
           <div class="tt">ICICI BANK DETAILS</div></div>
         <div class="topb">
-        <span>A/c Name :</span> RISK FREE TRADE SERVICES<br>
+        <span>A/c Name :</span> STOCK TRADE SERVICES<br>
                             <span>A/c No   : </span>217805500084<br>
                             <span>IFSC Code:</span> ICIC0002178<br>
                             <span>Branch   : </span>JP NAGAR, BANGALORE</div>
@@ -150,7 +150,7 @@ document.oncontextmenu=new Function("return false")
          <div class="topa"><span><img src="images/axis.png" width="40" height="40"></span>
            <div class="tt">AXIS BANK DETAILS</div></div>
         <div class="topb">
-        <span>A/c Name :</span> RISK FREE TRADE SERVICES<br>
+        <span>A/c Name :</span> STOCK TRADE SERVICES<br>
                             <span>A/c No   :</span> 914020027483929<br>
                             <span>IFSC Code:</span>UTIB0000102<br>
                             <span>Branch   :</span> JP NAGAR, Bangalore
@@ -176,10 +176,10 @@ document.oncontextmenu=new Function("return false")
          <div class="topa"><span><img src="images/hdfc.png" width="40" height="40"></span>
           <div class="tt">HDFC BANK DETAILS</div></div>
         <div class="topb">
-        <span>A/c Name :</span>RISK FREE TRADE SERVICES<br>
-                            <span>A/c No   :</span> 50200006693384<br>
-                            <span>IFSC Code:</span> HDFC0003780<br>
-                            <span>Branch   :</span> JP NAGAR, Bangalore
+        <span>A/c Name :</span>STOCK TRADE SERVICES<br>
+                            <span>A/c No   :</span> 50100050194014<br>
+                            <span>IFSC Code:</span> hdfc0001750<br>
+                            <span>Branch   :</span> giri nagar
         </div>
          <div class="topc"><span><img src="images/mobile3.png" width="20" height="20"></span><div class="tn">Get Bank Details On Your Mobile</div></div>
          <div class="getbank"><form name="clicktobank" method="post" action="#" id="clicktobank" onsubmit="return checkclicktobank(this);">
@@ -227,7 +227,7 @@ document.oncontextmenu=new Function("return false")
          
           </tr>
         <tr>
-          <td colspan="13" align="center" valign="middle">All Right Reserved @ riskfreetrade Services</td>
+          <td colspan="13" align="center" valign="middle">All Right Reserved @ stocktrade Services</td>
           </tr>
       </table></td>
   <!--    <td align="center" valign="middle"><img src="images/iso.jpg" width="137" height="83" /></td>-->

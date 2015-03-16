@@ -123,8 +123,8 @@ fadeinnext(divs);
 <!----------HEADER------------->
 <div id="header">
   <div class="headertop">
-	<div class="news">Give Miss Call @08431008318</div>
-    	<div class="logo"><img src="images/rft.png" width="150" height="68"></div>
+	<div class="news">Give Miss Call @8884151982</div>
+    	<div class="logo"><img src="images/stocktrade.png" width="150" height="68"></div>
         <div class="nav">
         	<ul>
             	<li class="home"><a href="index.php">Home</a></li>
@@ -165,7 +165,7 @@ fadeinnext(divs);
 			<ul>
 				<li><a><img src="images/rupee-symbol.png" width="20" height="28">Equity Pricing </a></li>
 				<li><a><img src="images/rupee-symbol.png" width="20" height="28">Commodity Pricing</a></li>
-				<li><a><img src="images/rupee-symbol.png" width="20" height="28">Future Pricing</a></li>-->
+				<li><a><img src="images/rupee-symbol.png" width="20" height="28">Future Pricing</a></li>
 				<li><a><img src="images/rupee-symbol.png" width="20" height="28">Nifty Pricing</a></li>
 				<li><a><img src="images/rupee-symbol.png" width="20" height="28">Options Pricing</a></li>
 				

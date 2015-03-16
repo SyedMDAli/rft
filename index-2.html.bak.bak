@@ -57,8 +57,8 @@ document.oncontextmenu=new Function("return false")
 <!----------HEADER------------->
 <div id="header">
   <div class="headertop">
-	<div class="news">Give Miss Call @ 08431008318</div>
-    	<div class="logo"><img src="" alt="Icon goes here" width="150" height="68"></div>
+	<div class="news">Give Miss Call @ 8884151982</div>
+    	<div class="logo"><img src="images/stocktrade.png" alt="Icon goes here" width="150" height="68"></div>
         <div class="nav">
         	<ul>
             	<li class="home"><a href="index-2.html">Home</a></li>
@@ -204,7 +204,7 @@ document.oncontextmenu=new Function("return false")
     </ul>
 <div id="news">
                 <div class="newsl">Latest Updates : </div>
-                <div class="newsr"><marquee dir="ltr" scrollamount="2">Month End Offer Is Going On Call @ 08431008318</marquee></div>
+                <div class="newsr"><marquee dir="ltr" scrollamount="2">Month End Offer Is Going On Call @ 8884151982</marquee></div>
                 </div>    
  
 
