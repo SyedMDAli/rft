@@ -72,11 +72,11 @@ document.oncontextmenu=new Function("return false")
         </div>
         <div class="social">
         	<ul>
-stock    	<li><a href="https://www.facebook.com/stocktrade" target="_blank"><img src="images/fb.png" id="image1"></a></li>
-                <li><a href="http://twitter.com/#!/stockTradein" target="_blank"><img src="images/tw.png" id="image2"></a></li>
-                <li><a href="http://www.linkedin.com/groups/stockTradeServices-4654986" target="_blank"><img src="images/in.png" id="image3"></a></li>
+            	<li><a href="https://www.facebook.com/riskfreetrade" target="_blank"><img src="images/fb.png" id="image1"></a></li>
+                <li><a href="http://twitter.com/#!/RiskFreeTradein" target="_blank"><img src="images/tw.png" id="image2"></a></li>
+                <li><a href="http://www.linkedin.com/groups/RiskFreeTradeServices-4654986" target="_blank"><img src="images/in.png" id="image3"></a></li>
                 <li><a href="https://plus.google.com/b/110885521397783239351/110885521397783239351"><img src="images/google.png" id="image4"></a></li>
-                 <li><a href="mailto:info@stocktrade.in" target="_blank"><img src="images/email.png" id="image5"></a></li>
+                 <li><a href="mailto:info@riskfreetrade.in" target="_blank"><img src="images/email.png" id="image5"></a></li>
             </ul>
         </div>
         <div class="clicktocall"><form id="clicktocall" name="clicktocall" method="post" action="#" onsubmit="return checkclicktocall();">
@@ -243,7 +243,7 @@ stock    	<li><a href="https://www.facebook.com/stocktrade" target="_blank"><img
                 	<div class="pr"> <img src="images/commodity.png" width="50" height="50"></div>
                         <div class="full">
                             <div class="title">Commodity Tips</div>
-                            <div class="desc">We at stockTrade endeavor constantly to take you the next level of Market Investing. </div>
+                            <div class="desc">We at RiskFreeTrade endeavor constantly to take you the next level of Market Investing. </div>
                             <div align="right" class="readmore"><a href="services.html#Commodity">Read More</a></div>
                        </div>
               </li>
@@ -262,9 +262,9 @@ stock    	<li><a href="https://www.facebook.com/stocktrade" target="_blank"><img
   <div class="middle">
     	<div class="hd">
         	<div class="pimage"><img src="images/welcome_icon.png" width="52" height="24"></div>
-            <div class="ptitle">Welcome To Stock Trade Services</div>
+            <div class="ptitle">Welcome To Risk Free Trade Services</div>
     </div> 
-         <div class="pcontent">Stocks Trade Financial Services is a independent equity research and advisory Company which offers fail-safe Stock Market Recommendations for your valued Investments in the Share Market. We provide the Best Stock Tips. Preserving an appropriate blend of growth as well as safety in mind, our team of professionals render you opportune Stock Tips live through SMS and Calls. The StockTips that we offer is based on our far-reaching research & unbiased technical analysis</div>
+         <div class="pcontent">Risk Free Trade Services is a Trading And an Investment Advisory Company which offers fail-safe Stock Market Recommendations for your valued Investments in the Share Market. We provide the Best Stock Tips. Preserving an appropriate blend of growth as well as safety in mind, our team of professionals render you opportune Stock Tips live through SMS and Calls. The StockTips that we offer is based on our far-reaching research & unbiased technical analysis</div>
           <div align="right" class="readmore"><a href="about.html">Read More</a></div>
           
     <div class="hd">
@@ -352,7 +352,7 @@ stock    	<li><a href="https://www.facebook.com/stocktrade" target="_blank"><img
          
           </tr>
         <tr>
-          <td colspan="13" align="center" valign="middle">All Right Reserved @ StockTrade Services</td>
+          <td colspan="13" align="center" valign="middle">All Right Reserved @ RiskFreeTrade Services</td>
           </tr>
       </table></td>
  <!-- <td align="center" valign="middle"><img src="images/iso.jpg" width="137" height="83" /></td> -->
@@ -374,7 +374,7 @@ stock    	<li><a href="https://www.facebook.com/stocktrade" target="_blank"><img
 </script></div>
 </body>
 
-<!-- Mirrored from www.stocktrade.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Nov 2014 12:16:31 GMT -->
+<!-- Mirrored from www.riskfreetrade.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Nov 2014 12:16:31 GMT -->
 </html>
 
 <?php

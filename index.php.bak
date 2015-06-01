@@ -207,7 +207,7 @@ document.oncontextmenu=new Function("return false")
     </ul>
 <div id="news">
                 <div class="newsl">Latest Updates : </div>
-                <div class="newsr"><marquee dir="ltr" scrollamount="2">Year Ending Offer Is Going On Call @ 8884151982</marquee></div>
+                <div class="newsr"><marquee dir="ltr" scrollamount="2">Month Ending Offer Is Going On Call @ 8884151982</marquee></div>
                 </div>    
  
 
